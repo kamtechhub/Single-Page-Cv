@@ -26,5 +26,5 @@ This project was created to:
 You can clone or download this repository and customize the content as needed:
 
 ```bash
-git clone https://github.com/kamtechhub/sample-cv.git
+git clone https://github.com/kamtechhub/Single-Page-Cv.git
 cd sample-cv
