@@ -28,3 +28,4 @@ You can clone or download this repository and customize the content as needed:
 ```bash
 git clone https://github.com/kamtechhub/Single-Page-Cv.git
 cd sample-cv
+https://roadmap.sh/projects/single-page-cv
